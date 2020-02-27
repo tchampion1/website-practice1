@@ -1,0 +1,12 @@
+body {
+    color: #666666;
+    background-color: #f9f8f6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.4em;
+    margin: 0px;
+}
+
+.wrapper {
+    width: 940px;
+    margin: 20px auto 20px auto;
+}
